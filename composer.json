@@ -1,0 +1,9 @@
+{
+    "name": "sms/validation",
+    "autoload": {
+        "psr-4": {
+            "Sms\\Validation\\": "src/"
+        }
+    },
+    "require": {}
+}
