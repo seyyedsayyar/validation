@@ -1,5 +1,5 @@
 {
-    "name": "sms/validation",
+    "name": "seyyedsayyar/validation",
     "autoload": {
         "psr-4": {
             "Sms\\Validation\\": "src/"
